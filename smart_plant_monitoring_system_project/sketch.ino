@@ -11,8 +11,8 @@ DHT dht(DHT_PIN, DHT_TYPE);
 
 #define FIREBASE_HOST "https://myprojectnew-da28b-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH "AIzaSyBh3t-_3EO6jO8kJ1bxLDDFa_rS88olN-E"
-#define WIFI_SSID "Nokia 1"
-#define WIFI_PASS "12345678"
+#define WIFI_SSID "Wokwi-GUEST"
+#define WIFI_PASS ""
 
 FirebaseData firebaseData;
 
